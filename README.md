@@ -1,4 +1,6 @@
 SmallGalaxy
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/63934700-75d0-4d75-be44-f9947d6b31ed.svg?orgId=679096383598)](https://app.soluble.cloud/repos/details/github.com/desteves/smallgalaxy?orgId=679096383598)  
 ===========
 
 Carnegie Mellon University - Spring 2014
